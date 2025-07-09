@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<full-backup-content>
+    <!--
+   TODO: Customize the backup rules for your app. See the documentation for more information about this
+   file: https://developer.android.com/guide/topics/data/autobackup
+
+   When the "fullBackupContent" attribute is set to "true", the system will automatically backup
+   and restore the application data. You can customize this behavior by using the <include> and
+   <exclude> tags.
+
+   For more information, see the documentation for android:fullBackupContent:
+   https://developer.android.com/reference/android/R.attr#fullBackupContent
+   -->
+</full-backup-content> 

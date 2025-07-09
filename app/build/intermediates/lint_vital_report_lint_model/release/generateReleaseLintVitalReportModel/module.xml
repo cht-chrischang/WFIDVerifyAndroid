@@ -1,0 +1,19 @@
+<lint-module
+    format="1"
+    dir="/Users/chrischang/work/moda/demo/WFIDVerifyAndroid/app"
+    name=":app"
+    type="APP"
+    maven="WFIDVerify:app:unspecified"
+    agpVersion="8.9.3"
+    buildFolder="build"
+    bootClassPath="/Users/chrischang/Library/Android/sdk/platforms/android-34/android.jar:/Users/chrischang/Library/Android/sdk/build-tools/35.0.0/core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-34"
+    neverShrinking="true">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>
